@@ -15,7 +15,7 @@ https://github.com/pyenv/pyenv-installer
 pip install -r requirements.txt
 
 ## 3.Set your Secret Key
-Set random string in app.py(line 8)
+Set random string in app.py(line 17)
 
 ## 4.Initial Database
 
