@@ -1,5 +1,5 @@
 # Azure-manager
-Manage your VM in Azure using cookies.
+Manage your VM in Azure.
 
 Default VM infomation:
 
